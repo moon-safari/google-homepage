@@ -1,0 +1,28 @@
+html, body {
+		font-family: arial, sans-serif;
+		color: #000;
+	}
+
+	.header ul.nav {
+      font-family: arial, sans-serif;
+      color: #000;
+      text-decoration: none;
+      display: inline-block;
+	}
+
+	.logo {
+		background-image: url(https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 800px;
+    margin: 0 0 0 250px;
+	}
+
+	p {
+		margin-bottom: 2cm;
+	}
+
+	form {
+		width: 90px;
+		margin-right: 90px;
+	}
